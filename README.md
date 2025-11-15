@@ -1,7 +1,7 @@
-# washington-ev-analysis
-Washington State Electric Vehicle Population Analysis | Python Data Analysis | Portfolio Project
+##Washington-ev-analysis
 
-I analyzed Washington State's electric vehicle data to see how EV adoption is growing and where the most EVs are located.
+-Washington State Electric Vehicle Population Analysis | Python Data Analysis | Portfolio Project
+-I analyzed Washington State's electric vehicle data to see how EV adoption is growing and where the most EVs are located.
 
 ## What I Did
 - Cleaned the raw data from data.wa.gov
